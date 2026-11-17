@@ -20,8 +20,8 @@ Dataset: 21,663 events, 10,000 sessions, 1 Oct to 31 Oct 2025.
 - Audited data quality and found `Bounce_Flag` duplicated the non-purchase flag and session attributes changed mid-session; documented assumptions and reconciled Python and SQL results exactly.
 - Estimated revenue impact: a 5-point checkout improvement is worth about 16% more revenue.
 
-![Funnel](images/01_funnel.png)
-![Step conversion by segment](images/02_step_conversion_by_segment.png)
+![Funnel](Images/01_funnel.png)
+![Step conversion by segment](Images/02_step_conversion_by_segment.png)
 
 ## Approach
 
