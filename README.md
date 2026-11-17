@@ -50,8 +50,8 @@ Dataset: 21,663 events, 10,000 sessions, 1 Oct to 31 Oct 2025.
 ├── funnel_analysis.sql        # SQL version (SQLite dialect, PostgreSQL notes inline)
 ├── Funnel_analysis_data.csv   # raw data (add your file here)
 ├── requirements.txt
-├── images/                    # charts saved by the notebook
-└── outputs/                   # CSVs for Power BI / Tableau + executive_summary.txt
+├── Images/                    # charts saved by the notebook
+└── Outputs/                   # CSVs for Power BI / Tableau + executive_summary.txt
 ```
 
 ## How to run
